@@ -1,3 +1,4 @@
+import Expedition from "./Expedition/Expedition"
 import About from "./components/About/About"
 import Banner from "./components/Banner"
 
@@ -6,6 +7,7 @@ const App = () => {
     <>
       <Banner />
       <About />
+      <Expedition />
     </>
   )
 }
