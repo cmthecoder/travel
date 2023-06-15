@@ -17,7 +17,7 @@ const Team = () => {
       <div className='w-[90%] lg:w-[60%] mx-auto bg-blue-950/60 text-white mt-[3rem] p-4 text-center flex flex-col gap-5 rounded-lg'>
         <h1 className='text-2xl lg:text-5xl capitalize'>Our Leaders</h1>
         <p className='2xl:text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis, cupiditate obcaecati? Officiis ducimus reiciendis minima nostrum doloribus est veniam fugit quo dolores repudiandae? Labore quia consectetur error nobis assumenda est!
-        Dolore suscipit incidunt aliquam doloremque accusamus, excepturi repudiandae expedita eos quasi eius. Iste animi, possimus quas nisi maxime ab esse earum vel, quae cupiditate nostrum necessitatibus eveniet, a quia <quisquam className=""></quisquam>5</p>
+        Dolore suscipit incidunt aliquam doloremque accusamus, excepturi repudiandae expedita eos quasi eius. Iste animi, possimus quas nisi maxime ab esse earum vel, quae cupiditate nostrum necessitatibus eveniet, a quia </p>
         <p className='text-sm 2xl:text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad blanditiis unde ex autem ipsum sapiente corporis. Impedit, quam. Voluptas nulla architecto ut omnis sequi. Tempore, voluptates. Maxime quod voluptas assumenda.
         Explicabo ut atque hic excepturi, beatae enim sapiente eum, quisquam ducimus quidem magni ea eaque nisi exercitationem a ad vitae voluptatem nam laboriosam aspernatur labore? Quod accusantium praesentium mollitia laudantium?0</p>
       </div>
