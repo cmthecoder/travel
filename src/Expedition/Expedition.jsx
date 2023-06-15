@@ -3,6 +3,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import logo from "../assets/images/logo.png";
 import cloud from "../assets/images/cloud.png";
 import { gsap } from "gsap";
+import Blog from "../Blog/Blog";
 
 const Expedition = () => {
 
@@ -54,6 +55,7 @@ const Expedition = () => {
           <img className="absolute right-0 left-0 bottom-[-3rem] sm:bottom-[-6rem] md:bottom-[-9rem] 2xl:bottom-[-15rem]" key={i} src={cloud} alt="cloud image" style={{animation: `cloud ${i + 15}s linear infinite`}}/>
         ))}
       </div>
+      <Blog />
     </section>
   );
 };
