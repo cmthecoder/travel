@@ -3,7 +3,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import logo from "../assets/images/logo.png";
 import cloud from "../assets/images/cloud.png";
 import { gsap } from "gsap";
-import Blog from "../Blog/Blog";
+import Blog from "../components/Blog/Blog";
 
 const Expedition = () => {
 
